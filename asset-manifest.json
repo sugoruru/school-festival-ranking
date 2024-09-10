@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mitsuichi-ranking/static/css/main.cf890fdb.css",
+    "main.js": "/mitsuichi-ranking/static/js/main.0e9e667d.js",
+    "index.html": "/mitsuichi-ranking/index.html",
+    "main.cf890fdb.css.map": "/mitsuichi-ranking/static/css/main.cf890fdb.css.map",
+    "main.0e9e667d.js.map": "/mitsuichi-ranking/static/js/main.0e9e667d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.0e9e667d.js"
+  ]
+}
