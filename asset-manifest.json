@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/school-festival-ranking/static/css/main.cf890fdb.css",
-    "main.js": "/school-festival-ranking/static/js/main.0e9e667d.js",
-    "index.html": "/school-festival-ranking/index.html",
-    "main.cf890fdb.css.map": "/school-festival-ranking/static/css/main.cf890fdb.css.map",
-    "main.0e9e667d.js.map": "/school-festival-ranking/static/js/main.0e9e667d.js.map"
+    "main.css": "/static/css/main.cf890fdb.css",
+    "main.js": "/static/js/main.0e9e667d.js",
+    "index.html": "/index.html",
+    "main.cf890fdb.css.map": "/static/css/main.cf890fdb.css.map",
+    "main.0e9e667d.js.map": "/static/js/main.0e9e667d.js.map"
   },
   "entrypoints": [
     "static/css/main.cf890fdb.css",
